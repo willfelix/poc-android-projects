@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kioskModafoca</string>
+    <string name="sample_device_admin">Modafoca Title</string>
+    <string name="sample_device_admin_description">Modafoca Description</string>
+    <string name="title_activity_detail">detailActivity</string>
+</resources>

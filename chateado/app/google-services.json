@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "501183162599",
+    "firebase_url": "https://chateado-b4dfe.firebaseio.com",
+    "project_id": "chateado-b4dfe",
+    "storage_bucket": "chateado-b4dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501183162599:android:21711b65956dcd3d",
+        "android_client_info": {
+          "package_name": "com.example.chateado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501183162599-d2uaof6lidfefth9lsn3gic5f9qn4mjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chateado",
+            "certificate_hash": "67b48780f5a9b22a8f87bf2c1ad7d09ec3734941"
+          }
+        },
+        {
+          "client_id": "501183162599-7f1tqb8nt4igbkm5fmnl8de5nr6lnm11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQ6EMgmmiNzDq6Z_C9SdpyKdVGE1-UEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501183162599-7f1tqb8nt4igbkm5fmnl8de5nr6lnm11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

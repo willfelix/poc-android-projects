@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".DetailActivity">
+
+    <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="37dp"
+            android:layout_marginTop="27dp"
+            android:layout_marginEnd="37dp"
+            android:layout_marginBottom="27dp"
+            app:layout_constraintBottom_toTopOf="@+id/textView2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/tvdetail" />
+
+    <TextView
+            android:id="@+id/textView2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginEnd="36dp"
+            android:layout_marginBottom="366dp"
+            android:text="Modelo:LH32 PN:LH32BENELGAZD Smart TV:Sim Tecnologia da Tela:LED Tamanho da Tela:32'' Resolução:HD 1366 X 768 Resolução da Tela:1366 x 768 3D:Não Brilho:250 Nits Contraste:1.200 : 1 Ângulo de Visão (H/V):178:178 Tempo de Resposta:8 ms Frequência:60 Hz Pixel Pitch (mm):510.75 (H) x 510.75 (V) Conversor Digital:Sim Wireless Integrado:Sim"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+</android.support.constraint.ConstraintLayout>
